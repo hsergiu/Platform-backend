@@ -1,6 +1,6 @@
 ## Platform for medical care (React)
 This application helps doctors and caregivers manage their patients.<br>
-Endpoints are secured through the use of spring security and JWT.<br>
+Endpoints are secured through the use of spring security and JWT.
 <br><br>
 The frontend for this application is [Platform-frontend](https://github.com/hsergiu/Platform-frontend).
 ## Available Scripts
