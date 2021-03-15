@@ -1,4 +1,4 @@
-## Platform for medical care (React)
+## Platform for medical care (Spring)
 This application helps doctors and caregivers manage their patients.<br>
 Endpoints are secured through the use of spring security and JWT.
 <br><br>
